@@ -4,9 +4,9 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   standalone: true,
   imports: [],
-  template: `<h1>JORGE</h1>`,
+  template: `<h1>pepe</h1>`,
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  title = 'jorge';
+  title = 'pepe';
 }
